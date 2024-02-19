@@ -35,6 +35,13 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
+## Decompostion
+// Create Structure for HTML document
+// Create API key and url
+// Create event listener for button to search the location for the city for the weather
+// Create variable to select input for the form
+// Append list items for weather
+
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
