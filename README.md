@@ -1,3 +1,9 @@
+Link to deployed site: https://rashuneagle.github.io/Weather-Application/
+
+Picture of site: ![image](https://github.com/Rashuneagle/Weather-Application/assets/152398969/cea6c890-4db9-4a52-bbb7-1a762ffbfc08)
+
+
+
 # 6th-Challenge
 6th coding challenge
 
