@@ -23,8 +23,8 @@ $(document).ready(function () {
         localStorage.setItem('Search History', JSON.stringify(searchHistory));
 
         // API URL using the entered city
-        var queryURL = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${APIKey}`;
-        var forecastURL = `http://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=${APIKey}&cnt=5`;
+        var queryURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${APIKey}`;
+        var forecastURL = `https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=${APIKey}&cnt=5`;
 
         // Use fetch to make the API request for current weather
         fetch(queryURL)
